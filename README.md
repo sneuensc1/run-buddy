@@ -12,3 +12,5 @@ https://sneuensc1.github.io/run-buddy/
 
 ##Contribution
 Made with ❤️ by Sara
+
+# Run Buddy Inc.
