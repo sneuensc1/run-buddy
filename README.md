@@ -13,4 +13,8 @@ https://sneuensc1.github.io/run-buddy/
 ##Contribution
 Made with ❤️ by Sara
 
+<<<<<<< HEAD
 ### ©️2019 Run Buddy, Inc
+=======
+# Run Buddy Inc.
+>>>>>>> main
